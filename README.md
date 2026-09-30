@@ -1,46 +1,48 @@
 # Hi, I'm Kelechi 👋
 
-I'm a Cybersecurity student building practical skills in
-networking, Linux, Python and system security.
+I'm a Cybersecurity student from Nigeria, currently building my
+skills through hands-on labs, projects, and continuous learning.
 
-## 🛡️ What I'm Learning
+## 🛡️ About Me
 
-- Networking
-- Linux
-- Python
-- Cybersecurity
-- Security+
-- System & Network Security
+- 🔐 Cybersecurity student focused on practical security skills
+- 🌐 Learning networking, Cisco IOS, OSPF, VLSM and VLANs
+- 🐧 Building my Linux skills
+- 🐍 Learning Python for cybersecurity and automation
+- 🧪 Interested in penetration testing and ethical hacking
+- 🎯 Looking forward to progressing into Penetration Testing
+- 🔎 Interested in vulnerability assessment, network security and system security
+- 💻 Building and documenting hands-on labs and cybersecurity projects
+- 📚 Currently working toward my Security+ knowledge and practical experience
+- 🚀 Always learning, experimenting and improving
 
-## 🔬 Featured Projects
+## 🔭 Current Focus
 
-### OSPF Multi-Router Lab
-Hands-on networking lab involving OSPF, VLSM and multiple routers.
+I'm currently strengthening my networking and system-security
+fundamentals while building practical projects.
 
-### VLAN Segmentation Lab
-Network segmentation practice using VLANs and routing concepts.
+My next major goal is to move deeper into **Penetration Testing**
+and develop stronger skills in identifying, understanding and
+testing security weaknesses in authorized lab environments.
 
-### Windows Security Lab
-Security research and proof-of-concept work involving Windows
-system security and offline access.
+## 🧰 Technologies & Areas
 
-## 🎯 Current Goal
+**Networking:** Cisco IOS, OSPF, VLSM, VLANs, IPv4  
+**Operating Systems:** Windows, Linux  
+**Programming:** Python, JavaScript  
+**Cybersecurity:** Network Security, System Security, Security+  
+**Tools:** Cisco Packet Tracer, Git & GitHub
 
-Building practical cybersecurity skills through hands-on labs
-and documenting my learning journey.
+## 📂 What You'll Find Here
 
-🇳🇬 Nigeria
-<!--
-**kelechipeter720-dot/kelechipeter720-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub contains my networking labs, cybersecurity projects,
+programming practice, experiments, and documentation of my
+learning journey.
 
-Here are some ideas to get you started:
+## 🎯 Long-Term Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To become a skilled cybersecurity professional with strong
+foundations in networking, penetration testing and defensive
+security.
+
+> Learning by building. Improving by doing. 🔐
